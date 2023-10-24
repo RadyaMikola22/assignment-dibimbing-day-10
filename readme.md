@@ -24,7 +24,7 @@ docker-compose up -d
 - untuk membuat service account kunjungi web ini console.cloud.google.com
 
 ## Connection ##
-- terdapat 2 koneksi yang dihubungkan terlebih dahulu agar DAG tersebut bisa berjalan yaitu:
+- terdapat 2 koneksi yang perlu ditambahkan pada airflownya terlebih dahulu agar DAG tersebut bisa berjalan yaitu:
     1. Koneksi ke Postgres
         connection id = dibimbing_postgres
         connection type = Postgres
