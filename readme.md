@@ -4,7 +4,7 @@
 - Buat 4 folder (logs, dags, plugins, config) yang dibutuhkan untuk menjalankan docker-compose nya
 - Buat dahulu imagenya dengan menjalankan kode di terminal yang dimana folder pathnya sudah berada di folder docker composenya berada seperti berikut:
   - docker build -t airflow-dibimbing:1.0.0 .
-- Kemudian buat kontainernya dengan menjalankan kode berikut
+- Kemudian buat kontainernya dengan menjalankan kode berikut:
   - docker-compose up -d
 
 ## Login Airflow ##
