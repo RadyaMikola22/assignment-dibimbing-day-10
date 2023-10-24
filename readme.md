@@ -40,7 +40,7 @@
 
 ## Keterangan Tambahan ##
 ### Query SQL ###
-- Untuk ekstrak dan transformasi data dari postgresnya ada di file query_sql.py yang berada di folder tugas_dibimbing_etl\dags\Postgres_to_Spreadsheet\lib. Adapun hasil querynya dan datanya dijadikan fungsi sendiri yang bernama query_sql, kemudian di import ke DAG ETL_to_Spreadsheet sebagai data yang akan di load
+- Untuk ekstrak dan transformasi data dari postgresnya ada di file query_sql.py yang berada di folder dags\Postgres_to_Spreadsheet\lib. Adapun hasil querynya dan datanya dijadikan fungsi sendiri yang bernama query_sql, kemudian di import ke DAG ETL_to_Spreadsheet sebagai data yang akan di load
 
 ### Database ###
-- Untuk database postgres ada di folder tugas_dibimbing_etl\db dengan file bernama chinook
+- Untuk database postgres ada di folder db dengan file bernama chinook
