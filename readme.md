@@ -22,8 +22,8 @@
 ## Connection ##
 - Terdapat 2 koneksi yang perlu ditambahkan pada airflownya terlebih dahulu agar DAG tersebut bisa berjalan yaitu:
     1. Koneksi ke Postgres
-        - connection id = dibimbing_postgres
-        - connection type = Postgres
+        - Connection id = dibimbing_postgres
+        - Connection type = Postgres
         - Host = postgres
         - Schema = postgres
         - login = airflow
