@@ -17,7 +17,7 @@
 
 ## Google Secret ##
 - Jika ingin menjalankan task ETL_to_Spreadsheet, buat dahulu service accountnya, kemudian buat juga spreadsheet baru sebagai bahan uji cobanya
-- Untuk membuat service account kunjungi web ini console.cloud.google.com
+- Untuk membuat service account kunjungi web ini https://console.cloud.google.com
 
 ## Connection ##
 - Terdapat 2 koneksi yang perlu ditambahkan pada airflownya terlebih dahulu agar DAG tersebut bisa berjalan yaitu:
