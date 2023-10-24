@@ -1,4 +1,4 @@
-# Instruksi Assingment Day 10 ETL with Python #
+# Instruksi Assignment Day 10 ETL with Python #
 
 ## Instalasi ##
 - buat 4 folder (logs, dags, plugins, config) yang dibutuhkan untuk menjalankan docker-compose nya
